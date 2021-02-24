@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
 
-You can use the [editor on GitHub](https://github.com/atl-r-users/communications/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Welcome!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to the Atlanta R Users Group site, where we will maintain an archive of presentations given at our monthly users group meetings. 
 
-```markdown
-Syntax highlighted code block
+## Next Meeting 25 February 2020
 
-# Header 1
-## Header 2
-### Header 3
+As we restart the group we will experiment with a variety of meeting formats. This month we plan to present two topics at about 20 minutes each, followed by an open discussion. Since we will meet via videoconference, we'll limit the meeting to 1 hour to minimize Zoom fatigue.
 
-- Bulleted
-- List
+Please mark your calendar for February 25th from 7:30P - 8:30P ET for our next meeting, where we will share two presentations:
 
-1. Numbered
-2. List
+1. Web Scraping with R, and
+2. Rodbc - Database connections & management using R
 
-**Bold** and _Italic_ and `Code` text
+Details about how to connect to the Zoom videoconference will be distributed to everyone who RSVPs for the meeting.
 
-[Link](url) and ![Image](src)
-```
+## Presentation Archive
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atl-r-users/communications/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+|Date|Presenter|Presentation|
+|:---------|:---|:---- |
+|28 January 2021|Len Greski|[Reading Fixed Files in R](https://bit.ly/2ZgadgR)|
+|21 December 2020| Steve Pittard|[Predictive Modeling](http://bit.ly/3qp2IA7)|
