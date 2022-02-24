@@ -77,7 +77,7 @@ system.time(results <-
 
 p <- ggplot(data = results,aes(x = avg_observed_p, y = coverage_pct)) + geom_line()
 p + facet_wrap(~sample_size) + ylim(0,100) + 
-        geom_hline(yintercept = 95, color = "red") +
+        geom_hline(yintercept = 95, color = "blue") +
         xlab("Average Observed p-value") + 
         ylab("Coverage Percentage") + 
      ggtitle("Coverage Percentages by Observed p-values by Sample Size: Adjusted Wald Method")
