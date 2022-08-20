@@ -27,7 +27,7 @@ Register at [Meetup.com](https://bit.ly/3AjT1Kx) to receive the videoconference 
 |:---------|:---|:---- |
 |24 June 2021|[Melinda Higgins, Ph.D.](http://bit.ly/3eYC7XL)|[Introduction to the Patchwork Package](https://melindahiggins2000.github.io/AtlantaRUsers_24June2021/)|
 |24 June 2021|Sridhar Sitharaman|Animated Graphs with the gg_animate Package|
-|29 April 2021|[Warren Hearnes, Ph.D.](https://bit.ly/3zor6Xs)|Building Applications with Shiny|
+|29 April 2021|[Warren Hearnes, Ph.D.](https://bit.ly/3zor6Xs)|[Building Applications with Shiny](https://github.com/atl-r-users/communications/blob/main/presentations/intro_to_shiny_w_hearnes.pptx)|
 |25 March 2021|[Melinda Higgins, Ph.D.](http://bit.ly/3eYC7XL)|[Reproducibility with the Rmarkdown / Knitr Ecosystem](https://bit.ly/3cmtWmo)|
 |25 March 2021|[Len Greski](https://bit.ly/3kPEgpf)|[Debugging R Code: Monte Carlo Simulations of Bernoulli Trials](https://bit.ly/3damdqV)<br>[R code](https://bit.ly/3feEEgO)|
 |25 February 2021|Rob Gordon|[An Introduction to Web Scraping in R](http://bit.ly/3qWogUR)<br><br> [Github site](http://bit.ly/3uJ3x9E)|
