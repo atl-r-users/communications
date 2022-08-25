@@ -15,7 +15,7 @@ Welcome to the Atlanta R Users Group site, where we will maintain an archive of 
 The August meeting included two presentations: 
 
 * Tidycensus vs. Flat Files -- A response to Melinda Higgins, by [Leonard Greski](https://bit.ly/2Q5rmp7)
-* Testing for Reproducible Research, by [Leonard Greski](https://bit.ly/2Q5rmp7) if time permits 
+* Testing for Reproducible Research, by [Leonard Greski](https://bit.ly/2Q5rmp7) 
 
 Towards the end of the call we discussed potential topics for subsequent meetings, and the general consensus was to continue presentations on the topic of testing. Our next meeting will be a "hands on" experience, a coding kata where we will experience test driven development in R. 
 
