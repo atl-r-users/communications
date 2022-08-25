@@ -19,7 +19,16 @@ The August meeting included two presentations:
 * Tidycensus vs. Flat Files -- A response to Melinda Higgins, by [Leonard Greski](https://bit.ly/2Q5rmp7)
 * Testing for Reproducible Research, by [Leonard Greski](https://bit.ly/2Q5rmp7) if time permits 
 
-Slides and content from the meeting are accessible below. 
+Towards the end of the call we discussed potential topics for subsequent meetings, and the general consensus was to continue presentations on the topic of testing. Our next meeting will be a "hands on" experience, a coding kata where we will experience test driven development in R. 
+
+Slides, content, and a recording of the meeting are accessible below. 
+
+## Meeting Recordings
+
+|Date|Recording Location|
+|:---------|:---|
+|24 August 2022|[Zoom meeting recording](https://bit.ly/3CqDE4F)|
+|25 March 2021|[Zoom meeting recording](https://bit.ly/3QQftAO)|
 
 ## Presentation Archive
 
